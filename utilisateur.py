@@ -30,7 +30,6 @@ class Utilisateur:
 
     def get_ville(self):
         return self.ville
-
     def set_login(self, login):
         self.login = login
 
