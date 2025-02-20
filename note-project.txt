@@ -1,0 +1,16 @@
+Super admin crée :
+admin et user
+admin classique :
+juste des users
+
+Faire en POO
+
+Le mdp doit avoir du salage (meme en brut dans le code c'est ok)
+
+Gestion basique des utilisateurs. 
+
+Bloquer l'authentifaiciation des users au bout de 3 erreurs (environ 1 à 5min)
+
+info des utilisateurs droit (a, sa, u), ville, login, mdp
+
+faire un menu basique en ascii
