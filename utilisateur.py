@@ -21,6 +21,7 @@ class Utilisateur:
 
     def set_type(self, type_utilisateur):
         self.type_utilisateur = type_utilisateur
+        zdfpih
 
     def get_type(self):
         return self.type_utilisateur
